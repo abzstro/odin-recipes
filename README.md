@@ -1,0 +1,1 @@
+This was an exercise from The Odin Project that tested all the fundementals of HTML.
